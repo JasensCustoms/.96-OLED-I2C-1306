@@ -5,3 +5,10 @@ These are provided for personal use only under the CC BY-NC 4.0 (https://creativ
 
 <img width="1402" height="963" alt="image" src="https://github.com/user-attachments/assets/1d5eacdc-dfe3-4d30-be8b-068a6a3e0390" />
 
+Mechanical Drawing:
+
+As you can see, placement is very specific and accurate. Standard PCB thickness, 1.6mm.
+
+<img width="1071" height="861" alt="image" src="https://github.com/user-attachments/assets/8558d95a-a6b7-4f3a-9e0b-f9511700c7ac" />
+
+
